@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PublicIPTile</string>
+    <string name="service_title">Public IP</string>
+    <string name="label_disable">My Public IP</string>
+    <string name="label_powered_by">Powered by MyIP and ipify</string>
+    <string name="label_clipboard_copied">IP address copied to clipboard</string>
+    <string name="label_clipboard_no_ip">No address to copy</string>
+    <string name="error_message_request_failed">Failed to get public ip</string>
+    <string name="error_message_no_connection">No internet connection</string>
+</resources>
