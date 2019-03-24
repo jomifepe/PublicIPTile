@@ -8,7 +8,7 @@ Dead simple tile service app that shows your public IP address on the quick sett
 - Long click to copy to clipboard
 
 ### Requirements:
-- Android 7.0 Nougat (API level 24)
+- Android 7.0 Nougat (API level 24) or higher
 
 ### Credits:
 - [MyIP](https://www.myip.com/api-docs/)
